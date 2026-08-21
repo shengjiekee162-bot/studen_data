@@ -1,0 +1,22 @@
+{
+    "file_a": "A.xlsx",
+    "file_b": "B.xlsx",
+    "mode": "smart",
+    "rules": [
+        "NAME",
+        "IDENTITY NUMBER"
+    ],
+    "summary": {
+        "totalA": 11,
+        "totalB": 11,
+        "matched": 8,
+        "modified": 0,
+        "missingA": 3,
+        "missingB": 3,
+        "duplicate": 0,
+        "invalid": 0,
+        "percentage": 72.73
+    },
+    "hash": "2598ce70f21a918a81f33c6c8f2b262d3a2de467c70093835da50506db13cd19",
+    "created_at": "2026-08-10T10:01:40+08:00"
+}
